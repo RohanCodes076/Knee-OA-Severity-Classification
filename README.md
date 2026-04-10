@@ -164,7 +164,7 @@ Applied carefully without disturbing clinical features:
 
 ### 📌 Sample Predictions
 
-![GradCAM Results](./assets/gradcam_results.png)
+![GradCAM Results](./GradCAMplus_Results.png)
 
 👉 Shows model focus regions for:
 
