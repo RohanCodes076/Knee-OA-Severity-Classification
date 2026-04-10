@@ -230,9 +230,5 @@ L_ij^c = ReLU( Σ_k w_k^c A_ij^k )
 * Deploy as clinical support system
 * Explore hybrid CNN-Transformer architectures
 
----
 
-## 👨‍💻 Author
-
-Rohan
 
