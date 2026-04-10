@@ -209,26 +209,9 @@ L_ij^c = ReLU( Σ_k w_k^c A_ij^k )
 
 ## 📊 Results
 
-* High classification performance across models
+* High classification performance of 92.75\% across models
 * ViT improved **global understanding**
 * Grad-CAM++ validated focus on **clinically relevant regions**
-
----
-
-## 🚀 Key Contributions
-
-* Hybrid use of CNN + Transformer models
-* Robust preprocessing & augmentation pipeline
-* Improved classification accuracy
-* Explainable AI using Grad-CAM++
-
----
-
-## 📌 Future Work
-
-* Use larger datasets
-* Deploy as clinical support system
-* Explore hybrid CNN-Transformer architectures
 
 
 
